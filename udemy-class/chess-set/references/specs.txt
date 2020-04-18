@@ -1,0 +1,15 @@
+
+* Board
+    - 8x8, black in lower left
+    - square: ~> 6 cm
+
+* Pieces
+** King
+   - 3.75 inch height -> 9.5 cm ~> 9.0cm
+   - diameter should be 40-50% of height and 75-80% of square
+     (diameter ~> 4.5cm ->square ~> 6.0cm)
+** Pawn
+   - 4 should fit in a square (size ~> 3.0cm)
+
+* ref
+  https://www.chess.com/article/view/chess-board-dimensions
