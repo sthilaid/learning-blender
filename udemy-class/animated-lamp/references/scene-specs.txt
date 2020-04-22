@@ -1,0 +1,13 @@
+
+* - scene -
+  meshes: table, chair, lamp (animated), paper sheet, crayon
+
+* - lamp -
+  https://www.amazon.com/Globe-Electric-Architect-Balanced-5698601/dp/B00RXSRQCC
+
+* - animation -
+  - 30 fps
+  - 10 sec (300 frames)
+  - 1 animated object (lamp)
+  - motion: tbd (pixar style?)
+    
